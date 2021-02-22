@@ -1,0 +1,44 @@
+C:\Javi\Trabajos\Genetsis - Coca cola\Web test\WebTestCokeId\bin\WebTestCokeId.dll
+C:\Javi\Trabajos\Genetsis - Coca cola\Web test\WebTestCokeId\bin\WebTestCokeId.pdb
+C:\Javi\Trabajos\Genetsis - Coca cola\Web test\WebTestCokeId\bin\netCokeIdsdk.dll
+C:\Javi\Trabajos\Genetsis - Coca cola\Web test\WebTestCokeId\bin\Newtonsoft.Json.dll
+C:\Javi\Trabajos\Genetsis - Coca cola\Web test\WebTestCokeId\bin\netCokeIdsdk.pdb
+C:\Javi\Trabajos\Genetsis - Coca cola\Web test\WebTestCokeId\bin\Newtonsoft.Json.pdb
+C:\Javi\Trabajos\Genetsis - Coca cola\Web test\WebTestCokeId\bin\Newtonsoft.Json.xml
+C:\Javi\Trabajos\Genetsis - Coca cola\Web test\WebTestCokeId\obj\Release\ResolveAssemblyReference.cache
+C:\Javi\Trabajos\Genetsis - Coca cola\Web test\WebTestCokeId\obj\Release\WebTestCokeId.dll
+C:\Javi\Trabajos\Genetsis - Coca cola\Web test\WebTestCokeId\obj\Release\WebTestCokeId.pdb
+D:\Javi\Trabajos\Genetsis - Coca cola\Repo SVN .net\WebTestCokeId\obj\Release\WebTestCokeId.csprojResolveAssemblyReference.cache
+D:\Javi\Trabajos\Genetsis - Coca cola\Repo SVN .net\WebTestCokeId\obj\Release\WebTestCokeId.dll
+D:\Javi\Trabajos\Genetsis - Coca cola\Repo SVN .net\WebTestCokeId\obj\Release\WebTestCokeId.pdb
+D:\Javi\Trabajos\Genetsis - Coca cola\Repo SVN .net\WebTestCokeId\bin\WebTestCokeId.dll
+D:\Javi\Trabajos\Genetsis - Coca cola\Repo SVN .net\WebTestCokeId\bin\WebTestCokeId.pdb
+D:\Javi\Trabajos\Genetsis - Coca cola\Repo SVN .net\WebTestCokeId\bin\netCokeIdsdk.dll
+D:\Javi\Trabajos\Genetsis - Coca cola\Repo SVN .net\WebTestCokeId\bin\Newtonsoft.Json.dll
+D:\Javi\Trabajos\Genetsis - Coca cola\Repo SVN .net\WebTestCokeId\bin\log4net.dll
+D:\Javi\Trabajos\Genetsis - Coca cola\Repo SVN .net\WebTestCokeId\bin\netCokeIdsdk.pdb
+D:\Javi\Trabajos\Genetsis - Coca cola\Repo SVN .net\WebTestCokeId\bin\Newtonsoft.Json.pdb
+D:\Javi\Trabajos\Genetsis - Coca cola\Repo SVN .net\WebTestCokeId\bin\Newtonsoft.Json.xml
+D:\Javi\Trabajos\Genetsis - Coca cola\Repo SVN .net\WebTestCokeId\bin\log4net.xml
+D:\Javi\Trabajos\Genetsis - Coca cola\c-sharp REPO_NEW\Code & Examples\WebTestCokeId\bin\WebTestCokeId.dll
+D:\Javi\Trabajos\Genetsis - Coca cola\c-sharp REPO_NEW\Code & Examples\WebTestCokeId\bin\WebTestCokeId.pdb
+D:\Javi\Trabajos\Genetsis - Coca cola\c-sharp REPO_NEW\Code & Examples\WebTestCokeId\bin\netCokeIdsdk.dll
+D:\Javi\Trabajos\Genetsis - Coca cola\c-sharp REPO_NEW\Code & Examples\WebTestCokeId\bin\log4net.dll
+D:\Javi\Trabajos\Genetsis - Coca cola\c-sharp REPO_NEW\Code & Examples\WebTestCokeId\bin\netCokeIdsdk.pdb
+D:\Javi\Trabajos\Genetsis - Coca cola\c-sharp REPO_NEW\Code & Examples\WebTestCokeId\bin\Newtonsoft.Json.pdb
+D:\Javi\Trabajos\Genetsis - Coca cola\c-sharp REPO_NEW\Code & Examples\WebTestCokeId\bin\Newtonsoft.Json.xml
+D:\Javi\Trabajos\Genetsis - Coca cola\c-sharp REPO_NEW\Code & Examples\WebTestCokeId\bin\log4net.xml
+D:\Javi\Trabajos\Genetsis - Coca cola\c-sharp REPO_NEW\Code & Examples\WebTestCokeId\obj\Release\WebTestCokeId.csprojResolveAssemblyReference.cache
+D:\Javi\Trabajos\Genetsis - Coca cola\c-sharp REPO_NEW\Code & Examples\WebTestCokeId\obj\Release\WebTestCokeId.dll
+D:\Javi\Trabajos\Genetsis - Coca cola\c-sharp REPO_NEW\Code & Examples\WebTestCokeId\obj\Release\WebTestCokeId.pdb
+D:\Javi\Trabajos\CokeId Trunk\c-sharp\Code & Examples\WebTestCokeId\obj\Release\WebTestCokeId.csprojResolveAssemblyReference.cache
+D:\Javi\Trabajos\CokeId Trunk\c-sharp\Code & Examples\WebTestCokeId\obj\Release\WebTestCokeId.dll
+D:\Javi\Trabajos\CokeId Trunk\c-sharp\Code & Examples\WebTestCokeId\obj\Release\WebTestCokeId.pdb
+D:\Javi\Trabajos\CokeId Trunk\c-sharp\Code & Examples\WebTestCokeId\bin\WebTestCokeId.dll
+D:\Javi\Trabajos\CokeId Trunk\c-sharp\Code & Examples\WebTestCokeId\bin\WebTestCokeId.pdb
+D:\Javi\Trabajos\CokeId Trunk\c-sharp\Code & Examples\WebTestCokeId\bin\netCokeIdsdk.dll
+D:\Javi\Trabajos\CokeId Trunk\c-sharp\Code & Examples\WebTestCokeId\bin\log4net.dll
+D:\Javi\Trabajos\CokeId Trunk\c-sharp\Code & Examples\WebTestCokeId\bin\netCokeIdsdk.pdb
+D:\Javi\Trabajos\CokeId Trunk\c-sharp\Code & Examples\WebTestCokeId\bin\Newtonsoft.Json.pdb
+D:\Javi\Trabajos\CokeId Trunk\c-sharp\Code & Examples\WebTestCokeId\bin\Newtonsoft.Json.xml
+D:\Javi\Trabajos\CokeId Trunk\c-sharp\Code & Examples\WebTestCokeId\bin\log4net.xml

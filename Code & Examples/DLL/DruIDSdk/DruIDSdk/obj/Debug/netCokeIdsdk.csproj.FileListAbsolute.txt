@@ -1,0 +1,25 @@
+C:/Javi/Trabajos/Genetsis - Coca cola/DLL/netCokeIdsdk/netCokeIdsdk/bin/Debug/netCokeIdsdk.dll
+C:/Javi/Trabajos/Genetsis - Coca cola/DLL/netCokeIdsdk/netCokeIdsdk/bin/Debug/netCokeIdsdk.pdb
+C:/Javi/Trabajos/Genetsis - Coca cola/DLL/netCokeIdsdk/netCokeIdsdk/obj/Debug/ResolveAssemblyReference.cache
+C:/Javi/Trabajos/Genetsis - Coca cola/DLL/netCokeIdsdk/netCokeIdsdk/obj/Debug/netCokeIdsdk.dll
+C:/Javi/Trabajos/Genetsis - Coca cola/DLL/netCokeIdsdk/netCokeIdsdk/obj/Debug/netCokeIdsdk.pdb
+C:/Javi/Trabajos/Genetsis - Coca cola/DLL/netCokeIdsdk/netCokeIdsdk/obj/Debug/netCokeIdsdk.Properties.Resources.resources
+C:/Javi/Trabajos/Genetsis - Coca cola/DLL/netCokeIdsdk/netCokeIdsdk/obj/Debug/GenerateResource.read.1.tlog
+C:/Javi/Trabajos/Genetsis - Coca cola/DLL/netCokeIdsdk/netCokeIdsdk/obj/Debug/GenerateResource.write.1.tlog
+C:/Javi/Trabajos/Genetsis - Coca cola/DLL/netCokeIdsdk/netCokeIdsdk/bin/Debug/Newtonsoft.Json.dll
+C:/Javi/Trabajos/Genetsis - Coca cola/DLL/netCokeIdsdk/netCokeIdsdk/bin/Debug/Newtonsoft.Json.pdb
+C:/Javi/Trabajos/Genetsis - Coca cola/DLL/netCokeIdsdk/netCokeIdsdk/bin/Debug/Newtonsoft.Json.xml
+/Users/german/Development/Genetsis/DotNet/Sdk/druid-sdk-csharp/Code & Examples/DLL/netCokeIdsdk/netCokeIdsdk/obj/Debug/netCokeIdsdk.csprojAssemblyReference.cache
+/Users/german/Development/Genetsis/DotNet/Sdk/druid-sdk-csharp/Code & Examples/DLL/netCokeIdsdk/netCokeIdsdk/obj/Debug/netCokeIdsdk.Properties.Resources.resources
+/Users/german/Development/Genetsis/DotNet/Sdk/druid-sdk-csharp/Code & Examples/DLL/netCokeIdsdk/netCokeIdsdk/obj/Debug/netCokeIdsdk.csproj.GenerateResource.cache
+/Users/german/Development/Genetsis/DotNet/Sdk/druid-sdk-csharp/Code & Examples/DLL/netCokeIdsdk/netCokeIdsdk/obj/Debug/netCokeIdsdk.csproj.CoreCompileInputs.cache
+/Users/german/Development/Genetsis/DotNet/Sdk/druid-sdk-csharp/Code & Examples/DLL/netCokeIdsdk/netCokeIdsdk/obj/Debug/netCokeIdsdk.dll
+/Users/german/Development/Genetsis/DotNet/Sdk/druid-sdk-csharp/Code & Examples/DLL/netCokeIdsdk/netCokeIdsdk/obj/Debug/netCokeIdsdk.pdb
+/Users/german/Development/Genetsis/DotNet/Sdk/druid-sdk-csharp/Code & Examples/DLL/netCokeIdsdk/netCokeIdsdk/bin/Debug/netCokeIdsdk.dll.config
+/Users/german/Development/Genetsis/DotNet/Sdk/druid-sdk-csharp/Code & Examples/DLL/netCokeIdsdk/netCokeIdsdk/bin/Debug/netCokeIdsdk.dll
+/Users/german/Development/Genetsis/DotNet/Sdk/druid-sdk-csharp/Code & Examples/DLL/netCokeIdsdk/netCokeIdsdk/bin/Debug/netCokeIdsdk.pdb
+/Users/german/Development/Genetsis/DotNet/Sdk/druid-sdk-csharp/Code & Examples/DLL/netCokeIdsdk/netCokeIdsdk/bin/Debug/log4net.dll
+/Users/german/Development/Genetsis/DotNet/Sdk/druid-sdk-csharp/Code & Examples/DLL/netCokeIdsdk/netCokeIdsdk/bin/Debug/Newtonsoft.Json.dll
+/Users/german/Development/Genetsis/DotNet/Sdk/druid-sdk-csharp/Code & Examples/DLL/netCokeIdsdk/netCokeIdsdk/bin/Debug/log4net.xml
+/Users/german/Development/Genetsis/DotNet/Sdk/druid-sdk-csharp/Code & Examples/DLL/netCokeIdsdk/netCokeIdsdk/bin/Debug/Newtonsoft.Json.xml
+/Users/german/Development/Genetsis/DotNet/Sdk/druid-sdk-csharp/Code & Examples/DLL/netCokeIdsdk/netCokeIdsdk/obj/Debug/netCokeIdsdk.csproj.CopyComplete

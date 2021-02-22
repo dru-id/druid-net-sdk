@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<DruID>
+	<LogPath4NetConfig>druidlog4net.xml</LogPath4NetConfig>
+	<CachePath>../cache</CachePath>
+</DruID>

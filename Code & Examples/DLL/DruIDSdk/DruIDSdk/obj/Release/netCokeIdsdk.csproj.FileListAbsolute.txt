@@ -1,0 +1,55 @@
+C:\Javi\Trabajos\Genetsis - Coca cola\DLL\netCokeIdsdk\netCokeIdsdk\bin\Release\netCokeIdsdk.dll
+C:\Javi\Trabajos\Genetsis - Coca cola\DLL\netCokeIdsdk\netCokeIdsdk\bin\Release\netCokeIdsdk.pdb
+C:\Javi\Trabajos\Genetsis - Coca cola\DLL\netCokeIdsdk\netCokeIdsdk\obj\Release\ResolveAssemblyReference.cache
+C:\Javi\Trabajos\Genetsis - Coca cola\DLL\netCokeIdsdk\netCokeIdsdk\obj\Release\netCokeIdsdk.Properties.Resources.resources
+C:\Javi\Trabajos\Genetsis - Coca cola\DLL\netCokeIdsdk\netCokeIdsdk\obj\Release\GenerateResource.read.1.tlog
+C:\Javi\Trabajos\Genetsis - Coca cola\DLL\netCokeIdsdk\netCokeIdsdk\obj\Release\GenerateResource.write.1.tlog
+C:\Javi\Trabajos\Genetsis - Coca cola\DLL\netCokeIdsdk\netCokeIdsdk\obj\Release\netCokeIdsdk.dll
+C:\Javi\Trabajos\Genetsis - Coca cola\DLL\netCokeIdsdk\netCokeIdsdk\obj\Release\netCokeIdsdk.pdb
+D:\Javi\Trabajos\Genetsis - Coca cola\DLL\netCokeIdsdk\netCokeIdsdk\obj\Release\ResolveAssemblyReference.cache
+D:\Javi\Trabajos\Genetsis - Coca cola\DLL\netCokeIdsdk\netCokeIdsdk\obj\Release\netCokeIdsdk.Properties.Resources.resources
+D:\Javi\Trabajos\Genetsis - Coca cola\DLL\netCokeIdsdk\netCokeIdsdk\obj\Release\GenerateResource.read.1.tlog
+D:\Javi\Trabajos\Genetsis - Coca cola\DLL\netCokeIdsdk\netCokeIdsdk\obj\Release\GenerateResource.write.1.tlog
+D:\Javi\Trabajos\Genetsis - Coca cola\DLL\netCokeIdsdk\netCokeIdsdk\obj\Release\netCokeIdsdk.dll
+D:\Javi\Trabajos\Genetsis - Coca cola\DLL\netCokeIdsdk\netCokeIdsdk\bin\Release\netCokeIdsdk.dll
+D:\Javi\Trabajos\Genetsis - Coca cola\DLL\netCokeIdsdk\netCokeIdsdk\bin\Release\netCokeIdsdk.pdb
+D:\Javi\Trabajos\Genetsis - Coca cola\DLL\netCokeIdsdk\netCokeIdsdk\obj\Release\netCokeIdsdk.pdb
+D:\Javi\Trabajos\Genetsis - Coca cola\DLL\netCokeIdsdk\netCokeIdsdk\bin\Release\log4net.dll
+D:\Javi\Trabajos\Genetsis - Coca cola\DLL\netCokeIdsdk\netCokeIdsdk\bin\Release\log4net.xml
+D:\Javi\Trabajos\Genetsis - Coca cola\DLL\netCokeIdsdk\netCokeIdsdk\bin\Release\netCokeIdsdk.dll.config
+C:\Javi\Trabajos\Genetsis - Coca cola\DLL\netCokeIdsdk\netCokeIdsdk\bin\Release\netCokeIdsdk.dll.config
+C:\Javi\Trabajos\Genetsis - Coca cola\DLL\netCokeIdsdk\netCokeIdsdk\bin\Release\log4net.dll
+C:\Javi\Trabajos\Genetsis - Coca cola\DLL\netCokeIdsdk\netCokeIdsdk\bin\Release\log4net.xml
+D:\Javi\Trabajos\Genetsis - Coca cola\Repo SVN .net\DLL\netCokeIdsdk\netCokeIdsdk\bin\Release\log4net.xml
+D:\Javi\Trabajos\Genetsis - Coca cola\Repo SVN .net\DLL\netCokeIdsdk\netCokeIdsdk\bin\Release\netCokeIdsdk.dll.config
+D:\Javi\Trabajos\Genetsis - Coca cola\Repo SVN .net\DLL\netCokeIdsdk\netCokeIdsdk\bin\Release\netCokeIdsdk.dll
+D:\Javi\Trabajos\Genetsis - Coca cola\Repo SVN .net\DLL\netCokeIdsdk\netCokeIdsdk\bin\Release\netCokeIdsdk.pdb
+D:\Javi\Trabajos\Genetsis - Coca cola\Repo SVN .net\DLL\netCokeIdsdk\netCokeIdsdk\obj\Release\netCokeIdsdk.Properties.Resources.resources
+D:\Javi\Trabajos\Genetsis - Coca cola\Repo SVN .net\DLL\netCokeIdsdk\netCokeIdsdk\obj\Release\netCokeIdsdk.csproj.GenerateResource.Cache
+D:\Javi\Trabajos\Genetsis - Coca cola\Repo SVN .net\DLL\netCokeIdsdk\netCokeIdsdk\obj\Release\netCokeIdsdk.dll
+D:\Javi\Trabajos\Genetsis - Coca cola\Repo SVN .net\DLL\netCokeIdsdk\netCokeIdsdk\obj\Release\netCokeIdsdk.pdb
+D:\Javi\Trabajos\Genetsis - Coca cola\c-sharp REPO_NEW\Code & Examples\DLL\netCokeIdsdk\netCokeIdsdk\obj\Release\netCokeIdsdk.Properties.Resources.resources
+D:\Javi\Trabajos\Genetsis - Coca cola\c-sharp REPO_NEW\Code & Examples\DLL\netCokeIdsdk\netCokeIdsdk\obj\Release\netCokeIdsdk.csproj.GenerateResource.Cache
+D:\Javi\Trabajos\Genetsis - Coca cola\c-sharp REPO_NEW\Code & Examples\DLL\netCokeIdsdk\netCokeIdsdk\obj\Release\netCokeIdsdk.dll
+D:\Javi\Trabajos\Genetsis - Coca cola\c-sharp REPO_NEW\Code & Examples\DLL\netCokeIdsdk\netCokeIdsdk\bin\Release\netCokeIdsdk.dll.config
+D:\Javi\Trabajos\Genetsis - Coca cola\c-sharp REPO_NEW\Code & Examples\DLL\netCokeIdsdk\netCokeIdsdk\bin\Release\netCokeIdsdk.dll
+D:\Javi\Trabajos\Genetsis - Coca cola\c-sharp REPO_NEW\Code & Examples\DLL\netCokeIdsdk\netCokeIdsdk\bin\Release\netCokeIdsdk.pdb
+D:\Javi\Trabajos\Genetsis - Coca cola\c-sharp REPO_NEW\Code & Examples\DLL\netCokeIdsdk\netCokeIdsdk\bin\Release\log4net.xml
+D:\Javi\Trabajos\Genetsis - Coca cola\c-sharp REPO_NEW\Code & Examples\DLL\netCokeIdsdk\netCokeIdsdk\obj\Release\netCokeIdsdk.pdb
+D:\Javi\Trabajos\COKEID SVN PRO\trunk\c-sharp\Code & Examples\DLL\netCokeIdsdk\netCokeIdsdk\bin\Release\netCokeIdsdk.dll.config
+D:\Javi\Trabajos\COKEID SVN PRO\trunk\c-sharp\Code & Examples\DLL\netCokeIdsdk\netCokeIdsdk\bin\Release\netCokeIdsdk.dll
+D:\Javi\Trabajos\COKEID SVN PRO\trunk\c-sharp\Code & Examples\DLL\netCokeIdsdk\netCokeIdsdk\bin\Release\netCokeIdsdk.pdb
+D:\Javi\Trabajos\COKEID SVN PRO\trunk\c-sharp\Code & Examples\DLL\netCokeIdsdk\netCokeIdsdk\obj\Release\netCokeIdsdk.Properties.Resources.resources
+D:\Javi\Trabajos\COKEID SVN PRO\trunk\c-sharp\Code & Examples\DLL\netCokeIdsdk\netCokeIdsdk\obj\Release\netCokeIdsdk.csproj.GenerateResource.Cache
+D:\Javi\Trabajos\COKEID SVN PRO\trunk\c-sharp\Code & Examples\DLL\netCokeIdsdk\netCokeIdsdk\obj\Release\netCokeIdsdk.dll
+D:\Javi\Trabajos\COKEID SVN PRO\trunk\c-sharp\Code & Examples\DLL\netCokeIdsdk\netCokeIdsdk\obj\Release\netCokeIdsdk.pdb
+D:\Javi\Trabajos\CokeId Trunk\c-sharp\Code & Examples\DLL\netCokeIdsdk\netCokeIdsdk\obj\Release\netCokeIdsdk.csprojResolveAssemblyReference.cache
+D:\Javi\Trabajos\CokeId Trunk\c-sharp\Code & Examples\DLL\netCokeIdsdk\netCokeIdsdk\obj\Release\netCokeIdsdk.Properties.Resources.resources
+D:\Javi\Trabajos\CokeId Trunk\c-sharp\Code & Examples\DLL\netCokeIdsdk\netCokeIdsdk\obj\Release\netCokeIdsdk.csproj.GenerateResource.Cache
+D:\Javi\Trabajos\CokeId Trunk\c-sharp\Code & Examples\DLL\netCokeIdsdk\netCokeIdsdk\obj\Release\netCokeIdsdk.dll
+D:\Javi\Trabajos\CokeId Trunk\c-sharp\Code & Examples\DLL\netCokeIdsdk\netCokeIdsdk\bin\Release\netCokeIdsdk.dll.config
+D:\Javi\Trabajos\CokeId Trunk\c-sharp\Code & Examples\DLL\netCokeIdsdk\netCokeIdsdk\bin\Release\netCokeIdsdk.dll
+D:\Javi\Trabajos\CokeId Trunk\c-sharp\Code & Examples\DLL\netCokeIdsdk\netCokeIdsdk\bin\Release\netCokeIdsdk.pdb
+D:\Javi\Trabajos\CokeId Trunk\c-sharp\Code & Examples\DLL\netCokeIdsdk\netCokeIdsdk\bin\Release\log4net.xml
+D:\Javi\Trabajos\CokeId Trunk\c-sharp\Code & Examples\DLL\netCokeIdsdk\netCokeIdsdk\obj\Release\netCokeIdsdk.pdb
+D:\Javi\Trabajos\CokeId Trunk\c-sharp\Code & Examples\DLL\netCokeIdsdk\netCokeIdsdk\bin\Release\Newtonsoft.Json.dll

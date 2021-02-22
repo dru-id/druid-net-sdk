@@ -1,0 +1,3 @@
+/Users/german/Development/Genetsis/DotNet/Sdk/druid-sdk-csharp/Code & Examples/DLL/netCokeIdsdk/netCokeIdsdk/obj/Debug/netCokeIdsdk.Properties.Resources.resources
+/Users/german/Development/Genetsis/DotNet/Sdk/druid-sdk-csharp/Code & Examples/DLL/netCokeIdsdk/netCokeIdsdk/obj/Debug/DruIDSdk.csproj.GenerateResource.cache
+/Users/german/Development/Genetsis/DotNet/Sdk/druid-sdk-csharp/Code & Examples/DLL/netCokeIdsdk/netCokeIdsdk/obj/Debug/DruIDSdk.csproj.CoreCompileInputs.cache

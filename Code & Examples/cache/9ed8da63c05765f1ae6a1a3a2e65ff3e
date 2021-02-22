@@ -1,0 +1,126 @@
+{
+  "data": [
+    {
+      "user": {
+        "app": "Test Client",
+        "entry-point": "231705665113870-main",
+        "created_on": "2015-06-24T10:24:41+02:00",
+        "typologies": {
+          "Consumer": {
+            "value": "Consumer",
+            "label": "consumer"
+          },
+          "Marketing": {
+            "value": "Marketing",
+            "label": "marketing"
+          }
+        },
+        "confirmed": true,
+        "user_ids": {
+          "national_id": {
+            "value": "54657687G",
+            "label": "national_id",
+            "is_social": false
+          },
+          "screen_name": {
+            "value": "druid",
+            "label": "screen_name",
+            "is_social": false
+          },
+          "mobile_number": {
+            "value": "666666666",
+            "label": "mobile_number",
+            "confirmed": false,
+            "is_social": false
+          },
+          "email": {
+            "value": "druid@yopmail.net",
+            "label": "email",
+            "confirmed": true,
+            "is_social": false
+          },
+          "facebook_id": {
+            "value": "111737675926304",
+            "label": "facebook_id",
+            "is_social": true,
+            "session": {
+              "accessToken": {
+                "value": "EAAJ60V3JgR4BAJ2ZCjHTbwql2mbnmZCTvaDPMPiqfCGWcuCwO7KHotLBuuIMjnznyB4zlGGGIiri2G9W3FrC0sT3nRS5CzhV9xqmrCNs4PqGIzW9YSLIHhhoi3zAhXIhuQkg9PEx8rLOyyNPkpIOcGAVlZBtkKHDwdCtHhhS5sogcFU84wR"
+              }
+            }
+          }
+        },
+        "user_data": {
+          "birthday": {
+            "value": "14/07/1983",
+            "label": "Date of birth"
+          },
+          "address": {
+            "value": "Adreça",
+            "label": "Address"
+          },
+          "gender": {
+            "value": "Mujer",
+            "label": "Gender",
+            "vid": "1"
+          },
+          "province": {
+            "value": "Barcelona",
+            "label": "State",
+            "vid": "8"
+          },
+          "phone": {
+            "value": "667746350",
+            "label": "Phone"
+          },
+          "surname": {
+            "value": "CIAM",
+            "label": "Surname"
+          },
+          "name": {
+            "value": "DruID",
+            "label": "Name"
+          },
+          "locality": {
+            "value": "Barcelona",
+            "label": "Town/City"
+          },
+          "company": {
+            "value": "Elastic",
+            "label": "Company",
+            "vid": "138"
+          },
+          "postal_code": {
+            "value": "08010",
+            "label": "Postal Code"
+          }
+        },
+        "user_assertions": {
+          "terms": {
+            "stakeholder": {
+              "value": "true"
+            },
+            "consumer": {
+              "value": "true"
+            }
+          },
+          "optin": {
+            "stakeholder": {
+              "value": "true"
+            },
+            "consumer": {
+              "value": "false"
+            }
+          }
+        },
+        "oid": "c8c9be7631860f7d4082401b056fd3db98d29546",
+        "brand": {
+          "key": "ballantines",
+          "name": "Ballantine's"
+        }
+      }
+    }
+  ],
+  "count": 1,
+  "ttl": 1613991509
+}

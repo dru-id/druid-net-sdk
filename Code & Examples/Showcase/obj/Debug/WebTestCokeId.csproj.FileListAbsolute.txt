@@ -1,0 +1,27 @@
+C:/Javi/Trabajos/Genetsis - Coca cola/Web test/WebTestCokeId/bin/WebTestCokeId.dll
+C:/Javi/Trabajos/Genetsis - Coca cola/Web test/WebTestCokeId/bin/WebTestCokeId.pdb
+C:/Javi/Trabajos/Genetsis - Coca cola/Web test/WebTestCokeId/bin/netCokeIdsdk.dll
+C:/Javi/Trabajos/Genetsis - Coca cola/Web test/WebTestCokeId/bin/netCokeIdsdk.pdb
+C:/Javi/Trabajos/Genetsis - Coca cola/Web test/WebTestCokeId/obj/Debug/ResolveAssemblyReference.cache
+C:/Javi/Trabajos/Genetsis - Coca cola/Web test/WebTestCokeId/obj/Debug/WebTestCokeId.dll
+C:/Javi/Trabajos/Genetsis - Coca cola/Web test/WebTestCokeId/obj/Debug/WebTestCokeId.pdb
+C:/Javi/Trabajos/Genetsis - Coca cola/Web test/WebTestCokeId/bin/Newtonsoft.Json.dll
+C:/Javi/Trabajos/Genetsis - Coca cola/Web test/WebTestCokeId/bin/Newtonsoft.Json.pdb
+C:/Javi/Trabajos/Genetsis - Coca cola/Web test/WebTestCokeId/bin/Newtonsoft.Json.xml
+D:/Javi/Trabajos/CokeId Trunk/c-sharp/Code & Examples/WebTestCokeId/obj/Debug/WebTestCokeId.csprojResolveAssemblyReference.cache
+D:/Javi/Trabajos/CokeId Trunk/c-sharp/Code & Examples/WebTestCokeId/obj/Debug/WebTestCokeId.dll
+D:/Javi/Trabajos/CokeId Trunk/c-sharp/Code & Examples/WebTestCokeId/obj/Debug/WebTestCokeId.pdb
+/Users/german/Development/Genetsis/DotNet/Sdk/druid-sdk-csharp/Code & Examples/WebTestCokeId/obj/Debug/WebTestCokeId.csproj.CoreCompileInputs.cache
+/Users/german/Development/Genetsis/DotNet/Sdk/druid-sdk-csharp/Code & Examples/WebTestCokeId/bin/WebTestCokeId.dll
+/Users/german/Development/Genetsis/DotNet/Sdk/druid-sdk-csharp/Code & Examples/WebTestCokeId/bin/WebTestCokeId.pdb
+/Users/german/Development/Genetsis/DotNet/Sdk/druid-sdk-csharp/Code & Examples/WebTestCokeId/bin/netCokeIdsdk.dll
+/Users/german/Development/Genetsis/DotNet/Sdk/druid-sdk-csharp/Code & Examples/WebTestCokeId/bin/Newtonsoft.Json.dll
+/Users/german/Development/Genetsis/DotNet/Sdk/druid-sdk-csharp/Code & Examples/WebTestCokeId/bin/log4net.dll
+/Users/german/Development/Genetsis/DotNet/Sdk/druid-sdk-csharp/Code & Examples/WebTestCokeId/bin/netCokeIdsdk.pdb
+/Users/german/Development/Genetsis/DotNet/Sdk/druid-sdk-csharp/Code & Examples/WebTestCokeId/bin/netCokeIdsdk.dll.config
+/Users/german/Development/Genetsis/DotNet/Sdk/druid-sdk-csharp/Code & Examples/WebTestCokeId/bin/Newtonsoft.Json.xml
+/Users/german/Development/Genetsis/DotNet/Sdk/druid-sdk-csharp/Code & Examples/WebTestCokeId/bin/log4net.xml
+/Users/german/Development/Genetsis/DotNet/Sdk/druid-sdk-csharp/Code & Examples/WebTestCokeId/obj/Debug/WebTestCokeId.csproj.CopyComplete
+/Users/german/Development/Genetsis/DotNet/Sdk/druid-sdk-csharp/Code & Examples/WebTestCokeId/obj/Debug/WebTestCokeId.dll
+/Users/german/Development/Genetsis/DotNet/Sdk/druid-sdk-csharp/Code & Examples/WebTestCokeId/obj/Debug/WebTestCokeId.pdb
+/Users/german/Development/Genetsis/DotNet/Sdk/druid-sdk-csharp/Code & Examples/WebTestCokeId/obj/Debug/WebTestCokeId.csprojAssemblyReference.cache

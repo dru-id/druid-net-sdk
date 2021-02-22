@@ -1,2 +1,3 @@
-# druid-net-sdk
-.NET sdk for DruID
+# druid-sdk-csharp
+
+C# Sdk for DruID

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<oauth-config environment="ci" generated-on="17/02/2021T10:14:44 +00:00" version="1.4">
+
+    <credentials>
+        <clientid>231705665113870</clientid>
+        <clientsecret>Hy6QBa4nSSgW8g0VRRH9idKxNapCA3</clientsecret>
+    </credentials>
+
+    <data>
+    <name>Test Client</name>
+    <brand key="ballantines">Ballantine's</brand>
+  </data>
+
+    <redirections>
+    <url default="true" type="postLogin">http://showcase.ci.dru-id.com/showcase/callback</url>
+    <url default="true" type="register">http://showcase.ci.dru-id.com/showcase/callback</url>
+    <url default="true" type="postChangeEmail">http://showcase.ci.dru-id.com/showcase/callback</url>
+    <url default="true" type="postEditAccount">http://showcase.ci.dru-id.com/showcase/callback</url>
+    <url default="true" type="confirmUser">http://showcase.ci.dru-id.com/showcase/callback</url>
+    <url type="postLogin">http://examples.dev.dru-id.com/actions/callback</url>
+    <url type="register">http://examples.dev.dru-id.com/actions/callback</url>
+    <url type="postChangeEmail">http://examples.dev.dru-id.com/actions/callback</url>
+    <url type="postEditAccount">http://examples.dev.dru-id.com/actions/callback</url>
+    <url type="confirmUser">http://examples.dev.dru-id.com/actions/callback</url>
+    <url type="postLogin">http://promociones.dev.beefeater.es/actions/callback</url>
+    <url type="register">http://promociones.dev.beefeater.es/actions/callback</url>
+    <url type="postChangeEmail">http://promociones.dev.beefeater.es/actions/callback</url>
+    <url type="postEditAccount">http://promociones.dev.beefeater.es/actions/callback</url>
+    <url type="confirmUser">http://promociones.dev.beefeater.es/actions/callback</url>
+    <url type="postLogin">http://js.dev.dru-id.com</url>
+    <url type="register">http://js.dev.dru-id.com</url>
+    <url type="postChangeEmail">http://js.dev.dru-id.com</url>
+    <url type="postEditAccount">http://js.dev.dru-id.com</url>
+    <url type="confirmUser">http://js.dev.dru-id.com</url>
+    <url type="postLogin">https://showcase.ci.dru-id.com/showcase/callback</url>
+    <url type="register">https://showcase.ci.dru-id.com/showcase/callback</url>
+    <url type="postChangeEmail">https://showcase.ci.dru-id.com/showcase/callback</url>
+    <url type="postEditAccount">https://showcase.ci.dru-id.com/showcase/callback</url>
+    <url type="confirmUser">https://showcase.ci.dru-id.com/showcase/callback</url>
+    <url type="postLogin">https://showcase.dev.dru-id.com/showcase/callback</url>
+    <url type="register">https://showcase.dev.dru-id.com/showcase/callback</url>
+    <url type="postChangeEmail">https://showcase.dev.dru-id.com/showcase/callback</url>
+    <url type="postEditAccount">https://showcase.dev.dru-id.com/showcase/callback</url>
+    <url type="confirmUser">https://showcase.dev.dru-id.com/showcase/callback</url>
+  </redirections>
+
+    <sections>
+    <section id="231705665113870-full-jmeter"/>
+    <section id="231705665113870-passless"/>
+    <section id="231705665113870-encp-jmeter"/>
+    <section id="231705665113870-full"/>
+    <section id="231705665113870-lam"/>
+    <section default="true" id="231705665113870-main"/>
+    <section id="231705665113870-st-jmeter"/>
+  </sections>
+
+    <endpoints>
+        <url id="authorization_endpoint">https://auth.ci.dru-id.com/oauth2/authorize</url>
+        <url id="signup_endpoint">https://auth.ci.dru-id.com/oauth2/authorize</url>
+        <url id="token_endpoint">https://auth.ci.dru-id.com/oauth2/token</url>
+        <url id="next_url">https://auth.ci.dru-id.com/oauth2/authorize/redirect</url>
+        <url id="cancel_url">https://auth.ci.dru-id.com/oauth2/authorize/redirect</url>
+        <url id="logout_endpoint">https://auth.ci.dru-id.com/oauth2/revoke</url>
+        <url id="edit_account_endpoint">https://register.ci.dru-id.com/register/edit_account_input</url>
+        <url id="complete_account_endpoint">https://register.ci.dru-id.com/register/complete_account_input</url>
+
+    </endpoints>
+
+    <apis>
+
+        <api base-url="https://api.ci.dru-id.com/api" id="api.user:v1" name="api.user" version="1">
+            <url id="user">/user</url>
+        </api>
+        <api base-url="https://graph.ci.dru-id.com/activityid" id="api.activityid:v1" name="api.activityid" substitution-var="{objectType}" version="1">
+            <url id="participate">/v1/game/request</url>
+            <url id="reject_participation">/v1/game/reject</url>
+            <url id="win_prize_content">/v1/product/win</url>
+            <url id="share">/v1/{objectType}/share</url>
+            <url id="click_newsletter">/public/v1/bookmark/acknowledge</url>
+            <url id="opens_newsletter">/public/v1/article/open</url>
+            <url id="fill_survey">/v1/question/complete</url>
+            <url id="upload_ugc">/v1/{objectType}/create</url>
+            <url id="delete_ugc">/v1/{objectType}/delete</url>
+            <url id="negative_comment">/v1/comment/create</url>
+            <url id="reject_ugc">/v1/{objectType}/reject</url>
+            <url id="positive_comment">/v1/comment/create</url>
+            <url id="neutral_comment">/v1/comment/create</url>
+            <url id="report">/v1/{objectType}/flag-as-inappropriate</url>
+            <url id="vote_ugc">/v1/review/create</url>
+            <url id="edit_ugc">/v1/{objectType}/update</url>
+            <url id="view_ugc">/v1/{objectType}/consume</url>
+            <url id="retweet">/v1/note/share</url>
+            <url id="follow">/v1/person/follow</url>
+            <url id="like">/v1/{objectType}/like</url>
+            <url id="unlike">/v1/{objectType}/unlike</url>
+            <url id="vote_brand_content">/v1/{objectType}/review</url>
+            <url id="view_brand_content">/v1/{objectType}/consume</url>
+            <url id="acceptance">/v1/product/accept</url>
+            <url id="event_attendance">/v1/event/attend</url>
+            <url id="make_a_friend">/v1/person/make-friend</url>
+            <url id="download_coupon"/>
+            <url id="scan_coupon_in_pos"/>
+            <url id="redeem_coupon_in_pos"/>
+            <url id="check_in">/v1/place/checkin</url>
+            <url id="win_prize_shopper"/>
+            <url id="subscribe"/>
+            <url id="neutral_post"/>
+            <url id="negative_post"/>
+            <url id="positive_post"/>
+            <url id="buy_tccc_products"/>
+            <url id="buy_coupon_with_euros"/>
+            <url id="shopping_cart_generated"/>
+            <url id="refer_to_a_friend"/>
+            <url id="bring_a_friend"/>
+            <url id="win_prize_promotion"/>
+            <url id="enter_incorrect_pincode"/>
+            <url id="redeem_pincode"/>
+            <url id="redeem_points"/>
+            <url id="change_pincodes"/>
+            <url id="change_points"/>
+            <url id="public_image">/public/v1/image</url>
+        </api>
+    </apis>
+
+</oauth-config>

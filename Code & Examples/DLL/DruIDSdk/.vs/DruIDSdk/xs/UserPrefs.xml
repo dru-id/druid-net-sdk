@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{1BC629CA-3EB7-4DC7-A8CA-6EEBD28CE69D}|">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DruIDSdk" expanded="True">
+            <Node name="DruIDSdk" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="UrlBuilder.cs" selected="True" />
+            </Node>
+            <Node name="Showcase" expanded="True">
+              <Node name="actions.aspx" expanded="True" />
+              <Node name="Default.aspx" expanded="True" />
+              <Node name="sampleListDataUsers.aspx" expanded="True" />
+              <Node name="sampleViewLoggedUserData.aspx" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Showcase PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
